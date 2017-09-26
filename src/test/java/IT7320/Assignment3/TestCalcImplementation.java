@@ -7,7 +7,7 @@ public class TestCalcImplementation extends TestCase {
 
 	CalcImplementation obj;
 	int x, y;
-	//1st commit
+	//2nd commit
 	protected void setUp() throws Exception {
 		
 		obj = new CalcImplementation();
